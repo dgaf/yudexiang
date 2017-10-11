@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'yudexiang'
-  s.version          = '0.2.0'
+  s.version          = '0.4.0'
   s.summary          = 'hello test'
 
 # This description is used to generate tags and improve search results.
@@ -28,9 +28,9 @@ hello test hello test hello test hello test hello test
   s.source           = { :git => 'https://github.com/dgaf/yudexiang.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-# s.resource_bundles = {
-#   'yudexiang' => ['yudexiang/Assets/*.png']
-# }
+ s.resource_bundles = {
+   'yudexiang' => ['yudexiang/Assets/*.png']
+ }
 
 s.ios.deployment_target = '8.0'
 s.platform      = :ios, '8.0'

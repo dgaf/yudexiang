@@ -1,6 +1,6 @@
 PODS:
   - Masonry (1.1.0)
-  - yudexiang (0.2.0):
+  - yudexiang (0.4.0):
     - Masonry
 
 DEPENDENCIES:
@@ -12,8 +12,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  yudexiang: dfc2d2a7db205c353df7c2e5eaf0cabc9bf9442f
+  yudexiang: 036706a70d10263568630cfd20c9b8299af28906
 
-PODFILE CHECKSUM: 9b18d3a3101e651f2dbdc268ee86e43525a628ff
+PODFILE CHECKSUM: d4e14501bc4cfd5afea0eef750eb2209d17eb00f
 
 COCOAPODS: 1.2.1
