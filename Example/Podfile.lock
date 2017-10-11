@@ -1,0 +1,19 @@
+PODS:
+  - Masonry (1.1.0)
+  - yudexiang (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - yudexiang (from `../`)
+
+EXTERNAL SOURCES:
+  yudexiang:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  yudexiang: d006dc5b11d187fb14739916933b1923589d5588
+
+PODFILE CHECKSUM: 0bf1a4a6d4c807bf8b018a7c3ffaf3c27cc9bbea
+
+COCOAPODS: 1.2.1
